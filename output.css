@@ -401,6 +401,12 @@
   .rounded-xl {
     border-radius: var(--radius-xl);
   }
+    .box {
+      background: linear-gradient(135deg, #0a3d62, #1e90ff);
+      padding: 25px;
+      margin-bottom: 20px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    }
   .border {
     border-style: var(--tw-border-style);
     border-width: 1px;
